@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e6aaa3f.chunk.css",
+    "main.js": "/static/js/main.c5e7c97b.chunk.js",
+    "main.js.map": "/static/js/main.c5e7c97b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.468ff73c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.468ff73c.js.map",
+    "static/js/2.8900ecc8.chunk.js": "/static/js/2.8900ecc8.chunk.js",
+    "static/js/2.8900ecc8.chunk.js.map": "/static/js/2.8900ecc8.chunk.js.map",
+    "static/js/3.03e943ac.chunk.js": "/static/js/3.03e943ac.chunk.js",
+    "static/js/3.03e943ac.chunk.js.map": "/static/js/3.03e943ac.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9e6aaa3f.chunk.css.map": "/static/css/main.9e6aaa3f.chunk.css.map",
+    "static/js/2.8900ecc8.chunk.js.LICENSE.txt": "/static/js/2.8900ecc8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bgLogo-transparent.fc9898cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468ff73c.js",
+    "static/js/2.8900ecc8.chunk.js",
+    "static/css/main.9e6aaa3f.chunk.css",
+    "static/js/main.c5e7c97b.chunk.js"
+  ]
+}
